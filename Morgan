@@ -1,0 +1,7 @@
+echo "#Morgan" >> README.md 
+git init 
+git add README.md 
+git commit -m “第一次提交” 
+git branch -M main 
+git remote add origin https://github.com/MorganMorgann/Morgan.git
+ git push -你来源主要
